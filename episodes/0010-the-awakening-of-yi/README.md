@@ -16,3 +16,7 @@ The following are the process(and notes) of the episode:
 1. Watch the opening cutscene.
 1. "羿!"
 1. "I just hope it'll be seasoned normally."
+
+## End in
+
+the-tutorial
