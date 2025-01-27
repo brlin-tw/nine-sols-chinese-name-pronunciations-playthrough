@@ -2,6 +2,10 @@
 
 The fall and the awakening of Yi.  The beginning of the story.
 
+## Start with
+
+None.
+
 ## Process
 
 The following are the process(and notes) of the episode:
